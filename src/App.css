@@ -1,3 +1,35 @@
+.search-bar {
+  margin-top: 70px;
+}
+
+.navbar-image {
+  width: 30px;
+  margin-left: 10px;
+}
+
+.link-style {
+  text-decoration: none;
+}
+
+/* About us page */
+
+.about-box {
+  margin-top: 200px;
+  box-shadow: 0 15px 13px #282c34;
+}
+
+.contact-icons {
+  width: 50px;
+}
+
+.contact-icons2 {
+  width: 90px;
+}
+
+.contact-icons3 {
+  width: 80px;
+}
+
 .App {
   text-align: center;
 }
